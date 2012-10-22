@@ -1,13 +1,13 @@
-# projecteuler
+# ProjectEuler-Clojure
 
-A Clojure library designed to ... well, that part is up to you.
+My solutions to Project Euler (http://projecteuler.net/) problems in Clojure.
+
+I will come back and revise my old solutions if/when I discover better ways to solve the problems.
 
 ## Usage
 
-FIXME
+lein run
 
 ## License
-
-Copyright © 2012 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.
